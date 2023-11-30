@@ -1,9 +1,9 @@
 import { useRef, useState } from "react";
 import "./App.css";
 import { motion } from "framer-motion";
-import bg from "../src/assets/bg.jpg";
-import audio from "../src/assets/audio.mp3";
-import gift from "../src/assets/gift.gif";
+import bg from "/bg.jpg";
+import audio from "/audio.mp3";
+import gift from "/gift.gif";
 
 function App() {
   console.log(bg);
